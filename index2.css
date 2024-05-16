@@ -1,0 +1,156 @@
+#newSection{
+    background-color: rgb(239, 239, 239);
+    width: 100%;
+    height: 870px;
+    position: absolute;
+    z-index: -1;
+    margin-top: 640px;
+
+}
+
+#newSection div h1:first-child{
+    font-size: 21px;
+    display: inline;
+    font-family: sans-serif;
+    position: absolute;
+    left: 710px;
+    top: 10px;
+}
+
+#newSection div h1:nth-child(2){
+    font-size: 21px;
+    display: inline;
+    font-family: sans-serif;
+    color: red;
+    position: absolute;
+    left: 785px;
+    top: 10px;
+}
+#newSection div p{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+#howimg{
+    position: relative;
+    top: 135px;
+    left: 530px;
+}
+#review{
+    font-size: 21px;
+    display: inline;
+    font-family: sans-serif;
+    position: relative;
+    left: 690px;
+    top: 190px;
+}
+#rating{
+    font-size: 21px;
+    display: inline;
+    font-family: sans-serif;
+    color: red;
+    position: relative;
+    left: 690px;
+    top: 190px;
+}
+#reviewbox1{
+    height: 220px;
+    width: 330px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 540px;
+    left: 268px;
+}
+
+.pricebox{
+    width: 330px;
+    height: 60px;
+    background-color: black;
+    position: absolute;
+    top: 60px;
+    box-sizing: border-box;
+}
+#profileimg{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: -28px;
+    left: 25px;
+}
+
+#reviewbox1 h2{
+    font-size: 16px;
+    position: absolute;
+    left: 110px;
+    top: -5px;
+    font-family: sans-serif;
+}
+
+#reviewbox2{
+    height: 220px;
+    width: 330px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 540px;
+    left: 630px;
+}
+#profileimg1{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: -28px;
+    left: 25px;
+}
+
+#reviewbox2 h2{
+    font-size: 16px;
+    position: absolute;
+    left: 110px;
+    top: -5px;
+    font-family: sans-serif;
+}
+
+
+#reviewbox3{
+    height: 220px;
+    width: 330px;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 540px;
+    left: 993px;
+}
+#profileimg2{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: -28px;
+    left: 25px;
+}
+
+#reviewbox3 h2{
+    font-size: 16px;
+    position: absolute;
+    left: 110px;
+    top: -5px;
+    font-family: sans-serif;
+}
+#apprating{
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px 4px rgb(229, 229, 229);
+    position: relative;
+    top: 470px;
+    left: 515px;
+}
+#star{
+    height: 25px;
+    width: 100px;
+    position: relative;
+    top: 10px;
+    left: 80px;
+}
